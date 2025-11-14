@@ -23,7 +23,7 @@ To build a fast and cost efficient prescreening modle that identifies high risk 
 
 
 ## Dataset Sources
-[Home Credit Default Risk]
+[Kaggle: Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)
 | Dataset | Description | Key Usage |
 | ----- | ----- | ------ |
 | Recent Applications | Client data from the current loan application | Used for initial model training |
@@ -38,8 +38,8 @@ To build a fast and cost efficient prescreening modle that identifies high risk 
 - **Development Environmen:** Google Colab
 
 ## Full Analysis Notebook
-[early_default_application.ipynb](./notebooks/early_default_application.ipynb) - Main Notebook
-[[early_default_application]_model_selection_and_baseline_results.ipynb](./notebooks/[early_default_application]_model_selection_and_baseline_results.ipynb) - Model Selection & Baseline Results
+[Early Default Application](./notebooks/early_default_application.ipynb) - Main Notebook
+[Model Selection and Baseline Results](./notebooks/[early_default_application]_model_selection_and_baseline_results.ipynb) - Model Selection & Baseline Results
 
 ## Analysis Workflow
 ### 1. Recent Application: Preprocessing & EDA
