@@ -39,6 +39,7 @@ To build a fast and cost efficient prescreening modle that identifies high risk 
 
 ## Full Analysis Notebook
 [Early Default Application](./notebooks/early_default_application.ipynb) - Main Notebook
+
 [Model Selection and Baseline Results](./notebooks/[early_default_application]_model_selection_and_baseline_results.ipynb) - Model Selection & Baseline Results
 
 ## Analysis Workflow
